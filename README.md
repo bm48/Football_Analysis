@@ -24,7 +24,7 @@ A comprehensive tool for processing and analyzing video footage, producing detai
 ### Clone the Repository:
 Clone the project repository to your local machine:
 ```bash
-git clone https://github.com/mradovic38/football_analysis.git
+git clone https://github.com/user-name/football_analysis.git
 cd football_analysis
 ```
 
@@ -153,11 +153,3 @@ Save tracking information to JSON files for further analysis and record-keeping,
 
 This project is licensed under the [MIT License](LICENSE). However, it uses the YOLO11 models, which are licensed under the [AGPL-3.0 and Enterprise Licenses](https://www.ultralytics.com/license).
 
-
-## 📖 Resources
-
- - [Code In a Jiffy - Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://youtu.be/neBZ6huolkg?si=ZEgoreaHGE6YniXN)
- - [Roboflow - Football AI Tutorial: From Basics to Advanced Stats with Python](https://youtu.be/aBVGKoNZQUw?si=DEb1BbARQBrd87Ez)
- - [DonsetPG - narya](https://github.com/DonsetPG/narya)
- - [PiotrGrabysz - PitchGeometry](https://github.com/PiotrGrabysz/PitchGeometry) 
- - "Automatic Team Assignment and Jersey Number Recognition in Football Videos" by Ragd Alhejaily et al. (2022).
